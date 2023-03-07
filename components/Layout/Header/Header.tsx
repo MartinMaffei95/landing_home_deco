@@ -5,7 +5,7 @@ const Header = () => {
     <header className="header-style flex justify-between items-center px-4 z-10">
       <div className="h-10 w-24  flex justify-center items-center">
         <div className="h-12 w-12 relative">
-          <Image fill src="/favicon.png" alt="" />
+          <Image fill src="/favicon.ico" alt="" />
         </div>
         <p className="font-noto">H&D</p>
       </div>
